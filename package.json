@@ -1,0 +1,16 @@
+{
+  "name": "greacefull_shutdown",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "repository": "git@github.com:juliosouzam/greacefull_shutdown.git",
+  "author": "Júlio César <julio.souzam@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "npx nodemon src/index.js",
+    "start": "node src/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
